@@ -1,1 +1,1 @@
-Ein Kontrollsystem für Phoenix über Ausflüge!
+Ein Kontrollsystem für Phoenix über Ausflüge
